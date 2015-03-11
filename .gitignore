@@ -17,6 +17,12 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+*.exe
+*.pbd
+*.rar
+*.zip
+*.vshost
+
 # =========================
 # Operating System Files
 # =========================

@@ -1,0 +1,8 @@
+bin\Debug\HexBootLoaderV1.0.exe
+bin\Debug\HexBootLoaderV1.0.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HexBootLoaderV1._.Form1.resources
+obj\Debug\HexBootLoaderV1._0.Properties.Resources.resources
+obj\Debug\HexBootLoaderV1.0.csproj.GenerateResource.Cache
+obj\Debug\HexBootLoaderV1.0.exe
+obj\Debug\HexBootLoaderV1.0.pdb
